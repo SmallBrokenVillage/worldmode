@@ -1,0 +1,7 @@
+name: worldmode
+version: 1.0
+main: com.seybox.worldmode.worldmode
+commands:
+  worldmode:
+    description: "worldmode 插件指令前缀"
+    usage: /worldmode creative/survival
